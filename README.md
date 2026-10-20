@@ -8,3 +8,13 @@ También esta el de la pila con los círculos como platos, creo que fue la mas c
 Tiktok: Puede usar el que es ordenando como por conexiones el de grafos y arboles donde por ejemplo conecta como los seguidores, los videos, las personas, etc.
 WhatsApp: Debería usar ese de la cola para organizar y que se pueda entregar los mensajes en el orden en que se envían.
 Spotify: También creo que use el mismo del tiktok de grafos y arboles para así crear las conexiones de los gustos con las cuentas y las búsquedas que realice cada uno mas o menos haciéndolo como jerárquicamente.
+
+
+### Examen de pilas, colas y listas
+
+Asignatura: SD1004 — Estructuras de Datos
+Modalidad de elaboración: Individual
+Estudiante: Carla Marilyn Torres Garces
+Código estudiantil: [Tu código]
+
+El examén lo presento individual porque apenas llegué del trabajo y no me he relacionado.
